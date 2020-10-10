@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Version 0 \(Master\)](README.md)
-* [Page 1](page-1.md)
+* [Version 1 \(V1\)](README.md)
+* [Page 1 \(V1\)](page-1.md)
 
