@@ -1,2 +1,2 @@
-# Version 1 Updated from GitHub \(V1\)
+# Version 1 \(V1\)
 
